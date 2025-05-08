@@ -1,4 +1,4 @@
-# my-project2
+# Taras Kravec
 Test project
 # Test changes
 Hello world
